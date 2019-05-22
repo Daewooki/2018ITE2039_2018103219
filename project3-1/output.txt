@@ -1,0 +1,11 @@
+Inserted (1,10)
+Found (1,10) on d=0 with h=0
+Inserted (2,9)
+Inserted (3,5)
+(2,9) (1,10) (3,5) 
+Found (1,10) on d=1 with h=0
+Found (2,9) on d=0 with h=1
+Found (3,5) on d=1 with h=0
+Found (3,5) update v=7
+Not Found
+(2,9) (1,10) (3,7) 

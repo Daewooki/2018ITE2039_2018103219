@@ -1,0 +1,22 @@
+Inserted 
+Inserted 
+Inserted 
+Inserted 
+Inserted 
+Collision! but gap is smaller than hop size. Inserted
+Inserted 
+Collision! but gap is smaller than hop size. Inserted
+Inserted 
+Inserted 
+Collision! but gap is smaller than hop size. Inserted
+Collision! but gap is smaller than hop size. Inserted
+11
+12
+13
+31
+51
+71
+Removed
+Removed
+Not Found
+191
